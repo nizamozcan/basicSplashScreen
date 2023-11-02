@@ -1,6 +1,7 @@
 ## Use
 
-
+How to Install:
+npm i react-native-basic-splash-screen
 Example usage:
 
 ```jsx
